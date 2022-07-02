@@ -85,8 +85,8 @@ function main_handler($event, $context)
  *
  * @param $event
  * @param $context
- *
- * @return string
+ *  
+ *@return string  
  */
 function handler($event, $context)
 {
