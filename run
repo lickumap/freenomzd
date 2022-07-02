@@ -58,7 +58,7 @@ function customize_error_handler()
 
 /**
  * @param \Exception $e
- *
+ * 
  * @throws \Exception
  */
 function exception_handler($e)
